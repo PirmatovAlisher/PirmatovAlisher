@@ -36,10 +36,12 @@ Currently exploring more advanced Blazor patterns and clean architecture.
 
 
 <h2>🛠 Projects</h2>
+
 - [Start-Up](https://github.com/PirmatovAlisher/Start-Up.git) - A dynamic business landing page with a custom-built .NET backend, featuring secure and seamless content management.
 - [Call-Center](https://github.com/PirmatovAlisher/Call-Center.git) - A Blazor WebAssembly app designed for managing call center operations, including agent activity and customer interactions.
 
 <h2>📬 Contact</h2>
+
 - 👤 Alisher 
 - 📧 pirmatovalisher000@gmail.com 
 - 📞 **Phone:** +998 (94) 361-99-25
