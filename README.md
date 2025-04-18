@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi 👋, I'm Alisher. 👨‍💻 Full-Stack .NET Web Developer
+<h1>Hi 👋, I'm Alisher. 👨‍💻 Full-Stack .NET Web Developer</h1>
 
-## 🧭 About Me
+<h2>🧭 About Me </h2>
+
 ```
 I'm a full stack .NET web developer who loves turning ideas into scalable, performant web apps.
 Whether it's building APIs, crafting UI components, or writing unit tests, I enjoy working across the stack.
@@ -22,7 +23,7 @@ Currently exploring more advanced Blazor patterns and clean architecture.
 ```
 
 
-## 🔧 Tech Stack
+<h2>🔧 Tech Stack</h2>
 
 - 🖥️ **Languages:** C#, JavaScript, SQL
 - ⚙️ **Backend:** ASP.NET Core, MVC, Web API
@@ -34,12 +35,13 @@ Currently exploring more advanced Blazor patterns and clean architecture.
 
 
 
-## 🛠 Projects
+<h2>🛠 Projects</h2>
 - [Start-Up](https://github.com/PirmatovAlisher/Start-Up.git) - A dynamic business landing page with a custom-built .NET backend, featuring secure and seamless content management.
 - [Call-Center](https://github.com/PirmatovAlisher/Call-Center.git) - A Blazor WebAssembly app designed for managing call center operations, including agent activity and customer interactions.
 
-## 📬 Contact
+<h2>📬 Contact</h2>
 - 👤 Alisher 
 - 📧 pirmatovalisher000@gmail.com 
 - 📞 **Phone:** +998 (94) 361-99-25
 - 💼 [hh.uz](https://hh.uz/resume/a1a1a635ff0e951e320039ed1f4f6e786e7757) 
+
